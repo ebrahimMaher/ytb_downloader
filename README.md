@@ -3,6 +3,9 @@ Youtube Video Downloader Script
 created by [Ebrahim Maher](https://github.com/ebrahimMaher)
 
 # Installation
+```
+git clone https://github.com/ebrahimMaher/ytb_downloader
+```
 
 ```
 pip install -r requirements.txt
